@@ -71,3 +71,4 @@ async def delete_image(
                 status_code=status.HTTP_403_FORBIDDEN,
                 detail="access denied",
             )
+
